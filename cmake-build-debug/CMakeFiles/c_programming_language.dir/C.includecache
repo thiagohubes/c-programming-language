@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+/Users/thiagohubes/CLionProjects/c-programming-language/fahrenheit_celsius.c
+stdio.h
+-
+
 /Users/thiagohubes/CLionProjects/c-programming-language/hello.c
 stdio.h
 -
@@ -15,4 +19,6 @@ stdio.h
 -
 hello.c
 /Users/thiagohubes/CLionProjects/c-programming-language/hello.c
+fahrenheit_celsius.c
+/Users/thiagohubes/CLionProjects/c-programming-language/fahrenheit_celsius.c
 
