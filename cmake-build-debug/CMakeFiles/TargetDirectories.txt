@@ -1,0 +1,3 @@
+/Users/thiagohubes/CLionProjects/c-programming-language/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/thiagohubes/CLionProjects/c-programming-language/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thiagohubes/CLionProjects/c-programming-language/cmake-build-debug/CMakeFiles/c_programming_language.dir

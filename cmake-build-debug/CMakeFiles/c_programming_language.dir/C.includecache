@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/thiagohubes/CLionProjects/c-programming-language/hello.c
+stdio.h
+-
+
+/Users/thiagohubes/CLionProjects/c-programming-language/main.c
+stdio.h
+-
+hello.c
+/Users/thiagohubes/CLionProjects/c-programming-language/hello.c
+
